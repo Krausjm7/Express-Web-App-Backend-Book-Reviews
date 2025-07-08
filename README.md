@@ -1,1 +1,2 @@
-# coding-project-template
+# Final Project | Book Review Web Application - Backend Development
+Built a server-side online book review web application using Node.js and Express.js. Implemented a secure REST API with session-based authentication leveraging JSON Web Tokens (JWT) for user management and protected routes. Designed and integrated Created APIs to perform full CRUD (Create, Read, Update, Delete) operations on book and review data, ensuring secure access. Enhanced API functionality by refactoring existing routes to utilize Promises and Async-Await patterns. All functionalities are thoroughly tested and validated using Postman.
